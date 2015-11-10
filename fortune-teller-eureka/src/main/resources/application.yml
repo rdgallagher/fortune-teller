@@ -3,7 +3,7 @@ server:
 
 eureka:
   instance:
-    hostname: localhost
+    hostname: eureka-rgallagher.cfapps.pez.pivotal.io
   client:
     registerWithEureka: false
     fetchRegistry: false

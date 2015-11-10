@@ -1,3 +1,3 @@
-cf cups config-service -p '{"uri":"http://config-server-unvariegated-capitulary.cfapps.io/"}'
-cf cups service-registry -p '{"uri":"http://eureka-psoatic-cirrocumulus.cfapps.io/"}'
-cf cs elephantsql turtle fortune-db
+cf cups config-service -p '{"uri":"http://config-server-rgallagher.cfapps.pez.pivotal.io/"}'
+cf cups service-registry -p '{"uri":"http://eureka-rgallagher.cfapps.pez.pivotal.io/"}'
+cf cs p-mysql 100mb-dev fortune-db
